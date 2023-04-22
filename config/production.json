@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "<secret>",
-  "mongoUri": "mongodb+srv://<pasword>clustermern.yggeeb8.mongodb.net/?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
